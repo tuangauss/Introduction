@@ -5,3 +5,5 @@ I am a sophomore at Yale University pursuing a Bachelor of Science in Applied Ma
 I am looking for opportunities to apply my background in data engineering, data visualization and statistical modelling to solve industry-related problems.
 
 Please feel free to contact me if you have any great ideas for collaboration.
+
+[Email](tuandoan.nguyen@yale.edu)
